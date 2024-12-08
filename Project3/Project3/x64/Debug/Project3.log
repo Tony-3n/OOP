@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\hoanh\Documents\Project3\FileName.cpp(51,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hoanh\Documents\Project3\FileName.cpp(52,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hoanh\Documents\Project3\FileName.cpp(85,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hoanh\Documents\Project3\FileName.cpp(86,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hoanh\Documents\Project3\FileName.cpp(133,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\hoanh\Documents\Project3\FileName.cpp(319,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\hoanh\Documents\Project3\x64\Debug\Project3.exe
