@@ -183,8 +183,8 @@ public:
 // ===== Class Wizard =====
 class Wizard : public Character {
 public:
-    Wizard() : Character(1000, 10) {
-        Health = 1000;
+    Wizard() : Character(100, 10) {
+        Health = 100;
         Strength = 5;
         Magic = 20;
         Potions = 3;
